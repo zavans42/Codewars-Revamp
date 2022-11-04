@@ -23,3 +23,4 @@ Every challenge has 2 solutions, the first one is a solution that I came up with
 * [Human readable duration format](codewars/4kyu//2022-11/2022-11-01.md)
 * [Snail](codewars/4kyu//2022-11/2022-11-02.md)
 * [Sudoku Solution Validator](codewars/4kyu//2022-11/2022-11-03.md)
+* [Range Extraction](codewars/4kyu//2022-11/2022-11-04.md)
