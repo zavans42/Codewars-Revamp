@@ -19,8 +19,11 @@ I consistently refactor and optimize my code for both efficiency and readability
 Every challenge has 2 solutions, the first one is a solution that I came up with on my own, and the second one is a more refined and optimized solution after I learn from other solutions or read up further on the subject.
 
 ## Lists of Challenges
-### 2022-11
+
+#### 4 Kyu
+
+##### 2022-11
 * [Human readable duration format](codewars/4kyu//2022-11/2022-11-01.md)
 * [Snail](codewars/4kyu//2022-11/2022-11-02.md)
 * [Sudoku Solution Validator](codewars/4kyu//2022-11/2022-11-03.md)
-* [Range Extraction](codewars/4kyu//2022-11/2022-11-04.md)
+* [Strip Comments](https://www.codewars.com/kata/51c8e37cee245da6b40000bd/javascript)
