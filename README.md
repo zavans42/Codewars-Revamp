@@ -20,10 +20,12 @@ Every challenge has 2 solutions, the first one is a solution that I came up with
 
 ## Lists of Challenges
 
-#### 4 Kyu
+### 4 Kyu
 
-##### 2022-11
+#### 2022-11
 * [Human readable duration format](codewars/4kyu//2022-11/2022-11-01.md)
 * [Snail](codewars/4kyu//2022-11/2022-11-02.md)
 * [Sudoku Solution Validator](codewars/4kyu//2022-11/2022-11-03.md)
-* [Strip Comments](https://www.codewars.com/kata/51c8e37cee245da6b40000bd/javascript)
+* [Range Extraction](codewars/4kyu//2022-11/2022-11-04.md)
+* [Strip Comments](codewars/4kyu//2022-11/2022-11-05.md)
+* [Permutations](codewars/4kyu//2022-11/2022-11-06.md)
