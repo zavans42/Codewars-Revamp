@@ -29,3 +29,4 @@ Every challenge has 2 solutions, the first one is a solution that I came up with
 * [Range Extraction](codewars/4kyu//2022-11/2022-11-04.md)
 * [Strip Comments](codewars/4kyu//2022-11/2022-11-05.md)
 * [Permutations](codewars/4kyu//2022-11/2022-11-06.md)
+* [Sum Strings as Numbers](codewars/4kyu//2022-11/2022-11-07.md)
