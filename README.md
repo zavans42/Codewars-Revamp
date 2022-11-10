@@ -32,3 +32,4 @@ Every challenge has 2 solutions, the first one is a solution that I came up with
 * [Sum Strings as Numbers](codewars/4kyu//2022-11/2022-11-07.md)
 * [Sum of Intervals](codewars/4kyu//2022-11/2022-11-08.md)
 * [Next bigger number with the same digits](codewars/4kyu//2022-11/2022-11-09.md)
+* [The observed PIN](codewars/4kyu//2022-11/2022-11-10.md)
