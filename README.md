@@ -34,3 +34,4 @@ Every challenge has 2 solutions, the first one is a solution that I came up with
 * [Next bigger number with the same digits](codewars/4kyu//2022-11/2022-11-09.md)
 * [The observed PIN](codewars/4kyu//2022-11/2022-11-10.md)
 * [Adding Big Numbers](codewars/4kyu//2022-11/2022-11-11.md)
+* [Strings Mixs](codewars/4kyu//2022-11/2022-11-12.md)
