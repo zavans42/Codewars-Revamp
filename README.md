@@ -38,3 +38,4 @@ Every challenge has 2 solutions, the first one is a solution that I came up with
 * [Roman Numerals Helper](codewars/4kyu//2022-11/2022-11-13.md)
 * [Most frequently used words in a text](codewars/4kyu//2022-11/2022-11-14.md)
 * [Twice linear](codewars/4kyu//2022-11/2022-11-15.md)
+* [Decode the Morse code, advanced](codewars/4kyu//2022-11/2022-11-16.md)
