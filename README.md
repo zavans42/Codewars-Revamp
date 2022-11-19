@@ -40,3 +40,5 @@ Every challenge has 2 solutions, the first one is a solution that I came up with
 * [Twice linear](codewars/4kyu//2022-11/2022-11-15.md)
 * [Decode the Morse code, advanced](codewars/4kyu//2022-11/2022-11-16.md)
 * [Recover a secret string from random triplets](codewars/4kyu//2022-11/2022-11-17.md)
+* [Pyramid Slide Down](codewars/4kyu//2022-11/2022-11-18.md)
+* [Sum by Factors](codewars/4kyu//2022-11/2022-11-19.md)
