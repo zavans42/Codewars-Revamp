@@ -44,3 +44,4 @@ Every challenge has 2 solutions, the first one is a solution that I came up with
 * [Sum by Factors](codewars/4kyu//2022-11/2022-11-19.md)
 * [Matrix Determinant](codewars/4kyu//2022-11/2022-11-20.md)
 * [Nesting Structure Comparison](codewars/4kyu//2022-11/2022-11-21.md)
+* [parseInt() reloaded](codewars/4kyu//2022-11/2022-11-22.md)
