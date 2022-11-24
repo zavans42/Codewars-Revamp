@@ -46,3 +46,4 @@ Every challenge has 2 solutions, the first one is a solution that I came up with
 * [Nesting Structure Comparison](codewars/4kyu//2022-11/2022-11-21.md)
 * [parseInt() reloaded](codewars/4kyu//2022-11/2022-11-22.md)
 * [Catching Car Mileage Numbers](codewars/4kyu//2022-11/2022-11-23.md)
+* [Square into Squares. Protect trees!](codewars/4kyu//2022-11/2022-11-24.md)
