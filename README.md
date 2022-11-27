@@ -49,3 +49,4 @@ Every challenge has 2 solutions, the first one is a solution that I came up with
 * [Square into Squares. Protect trees!](codewars/4kyu//2022-11/2022-11-24.md)
 * [Path Finder #1: can you reach the exit?](codewars/4kyu//2022-11/2022-11-25.md)
 * [Next smaller number with the same digits](codewars/4kyu//2022-11/2022-11-26.md)
+* [Multiplying numbers as strings](codewars/4kyu//2022-11/2022-11-27.md)
