@@ -50,4 +50,5 @@ Every challenge has 2 solutions, the first one is a solution that I came up with
 * [Path Finder #1: can you reach the exit?](codewars/4kyu//2022-11/2022-11-25.md)
 * [Next smaller number with the same digits](codewars/4kyu//2022-11/2022-11-26.md)
 * [Multiplying numbers as strings](codewars/4kyu//2022-11/2022-11-27.md)
-* [Conway's Game of Life - Unlimited Edition](codewars/4kyu//2022-11/2022-11-27.md)
+* [Conway's Game of Life - Unlimited Edition](codewars/4kyu//2022-11/2022-11-28.md)
+* [Sort binary tree by levels](codewars/4kyu//2022-11/2022-11-29.md)
