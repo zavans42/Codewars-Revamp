@@ -52,3 +52,4 @@ Every challenge has 2 solutions, the first one is a solution that I came up with
 * [Multiplying numbers as strings](codewars/4kyu//2022-11/2022-11-27.md)
 * [Conway's Game of Life - Unlimited Edition](codewars/4kyu//2022-11/2022-11-28.md)
 * [Sort binary tree by levels](codewars/4kyu//2022-11/2022-11-29.md)
+* [Don't give me five! Really!](codewars/4kyu//2022-11/2022-11-30.md)
