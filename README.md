@@ -57,3 +57,4 @@ Every challenge has 2 solutions, the first one is a solution that I came up with
 #### 2022-12
 * [Codewars style ranking system](codewars/4kyu//2022-12/2022-12-01.md)
 * [Find the unknown digit](codewars/4kyu//2022-12/2022-12-02.md)
+* [Large Factorials](codewars/4kyu//2022-12/2022-12-03.md)
