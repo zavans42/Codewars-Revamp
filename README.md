@@ -59,3 +59,5 @@ Every challenge has 2 solutions, the first one is a solution that I came up with
 * [Find the unknown digit](codewars/4kyu//2022-12/2022-12-02.md)
 * [Large Factorials](codewars/4kyu//2022-12/2022-12-03.md)
 * [Validate Sudoku with size NxN](codewars/4kyu//2022-12/2022-12-04.md)
+* [Text align justify](codewars/4kyu//2022-12/2022-12-05.md)
+* [Vigenère Cipher Helper](codewars/4kyu//2022-12/2022-12-06.md)
