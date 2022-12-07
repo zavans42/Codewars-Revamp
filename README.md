@@ -61,3 +61,4 @@ Every challenge has 2 solutions, the first one is a solution that I came up with
 * [Validate Sudoku with size NxN](codewars/4kyu//2022-12/2022-12-04.md)
 * [Text align justify](codewars/4kyu//2022-12/2022-12-05.md)
 * [Vigenère Cipher Helper](codewars/4kyu//2022-12/2022-12-06.md)
+* [Counting Change Combinations](codewars/4kyu//2022-12/2022-12-07.md)
