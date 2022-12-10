@@ -64,3 +64,4 @@ Every challenge has 2 solutions, the first one is a solution that I came up with
 * [[4 Kyu] - Counting Change Combinations](codewars/4kyu//2022-12/2022-12-07.md)
 * [[4 Kyu] - Binary multiple of 3](codewars/4kyu//2022-12/2022-12-08.md)
 * [[5 Kyu] - Beeramid](codewars/5kyu//2022-12/2022-12-09.md)
+* [[5 Kyu] - Mean Square Error](codewars/5kyu//2022-12/2022-12-10.md)
