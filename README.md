@@ -67,3 +67,4 @@ Every challenge has 2 solutions, the first one is a solution that I came up with
 * [[5 Kyu] - Mean Square Error](codewars/5kyu//2022-12/2022-12-10.md)
 * [[5 Kyu] - Convert A Hex String To RGB](codewars/5kyu//2022-12/2022-12-11.md)
 * [[5 Kyu] - Hello W... wait what?](codewars/5kyu//2022-12/2022-12-12.md)
+* [[5 Kyu] - Primes in numbers](codewars/5kyu//2022-12/2022-12-12.md)
