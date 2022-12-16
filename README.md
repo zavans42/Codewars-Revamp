@@ -70,3 +70,4 @@ Every challenge has 2 solutions, the first one is a solution that I came up with
 * [[5 Kyu] - Primes in numbers](codewars/5kyu//2022-12/2022-12-13.md)
 * [[5 Kyu] - Can you get the loop ?](codewars/5kyu//2022-12/2022-12-14.md)
 * [[5 Kyu] - Memoized Fibonacci](codewars/5kyu//2022-12/2022-12-15.md)
+* [[5 Kyu] - Count IP Addresses](codewars/5kyu//2022-12/2022-12-16.md)
