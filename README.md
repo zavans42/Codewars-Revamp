@@ -73,3 +73,4 @@ Every challenge has 2 solutions, the first one is a solution that I came up with
 * [[5 Kyu] - Count IP Addresses](codewars/5kyu//2022-12/2022-12-16.md)
 * [[5 Kyu] - Josephus Permutation](codewars/5kyu//2022-12/2022-12-17.md)
 * [[5 Kyu] - Function Cache](codewars/5kyu//2022-12/2022-12-18.md)
+* [[5 Kyu] - Using closures to share class state](codewars/5kyu//2022-12/2022-12-19.md)
