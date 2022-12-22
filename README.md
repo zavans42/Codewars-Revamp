@@ -20,8 +20,6 @@ Every challenge has 2 solutions, the first one is a solution that I came up with
 
 ## Lists of Challenges
 
-### 4 Kyu
-
 #### November 2022
 * [[4 kyu] - Human readable duration format](codewars/4kyu//2022-11/2022-11-01.md)
 * [[4 kyu] - Snail](codewars/4kyu//2022-11/2022-11-02.md)
@@ -76,3 +74,4 @@ Every challenge has 2 solutions, the first one is a solution that I came up with
 * [[5 Kyu] - Using closures to share class state](codewars/5kyu//2022-12/2022-12-19.md)
 * [[5 Kyu] - Vector class](codewars/5kyu//2022-12/2022-12-20.md)
 * [[6 Kyu] - Valid Braces](codewars/6kyu//2022-12/2022-12-21.md)
+* [[5 Kyu] - Longest Common Subsequence](codewars/6kyu//2022-12/2022-12-22.md)
