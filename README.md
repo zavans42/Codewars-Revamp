@@ -76,4 +76,5 @@ Every challenge has 2 solutions, the first one is a solution that I came up with
 * [[6 Kyu] - Valid Braces](codewars/6kyu//2022-12/2022-12-21.md)
 * [[5 Kyu] - Longest Common Subsequence](codewars/5kyu//2022-12/2022-12-22.md)
 * [[6 Kyu] - Highest Scoring Word](codewars/6kyu//2022-12/2022-12-23.md)
+* [[5 Kyu] - Phone Directory](codewars/6kyu//2022-12/2022-12-24.md)
 
