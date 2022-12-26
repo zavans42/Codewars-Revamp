@@ -78,4 +78,5 @@ Every challenge has 2 solutions, the first one is a solution that I came up with
 * [[6 Kyu] - Highest Scoring Word](codewars/6kyu//2022-12/2022-12-23.md)
 * [[5 Kyu] - Phone Directory](codewars/5kyu//2022-12/2022-12-24.md)
 * [[6 Kyu] - Bouncing Balls](codewars/6kyu//2022-12/2022-12-25.md)
+* [[6 Kyu] - Delete occurrences of an element if it occurs more than n times](codewars/6kyu//2022-12/2022-12-26.md)
 
