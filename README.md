@@ -82,4 +82,4 @@ Every challenge has 2 solutions, the first one is a solution that I came up with
 * [[6 Kyu] - WeIrD StRiNg CaSe](codewars/6kyu//2022-12/2022-12-27.md)
 * [[6 Kyu] - Remove the parentheses](codewars/6kyu//2022-12/2022-12-28.md)
 * [[6 Kyu] - String array duplicates](codewars/6kyu//2022-12/2022-12-29.md)
-
+* [[6 Kyu] - Lottery Ticket](codewars/6kyu//2022-12/2022-12-30.md)
