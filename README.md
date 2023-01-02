@@ -86,4 +86,5 @@ Every challenge has 2 solutions, the first one is a solution that I came up with
 * [[6 Kyu] - Pair of gloves](codewars/6kyu//2022-12/2022-12-31.md)
 
 #### January 2023
-* [[6 Kyu] - Prefill an Array](codewars/6kyu//2023-01/2022-01-01.md)
+* [[6 Kyu] - Prefill an Array](codewars/6kyu//2023-01/2023-01-01.md)
+* [[5 Kyu] - Find the unique string](codewars/5kyu//2023-01/2023-01-02.md)
