@@ -90,3 +90,4 @@ Every challenge has 2 solutions, the first one is a solution that I came up with
 * [[5 Kyu] - Find the unique string](codewars/5kyu//2023-01/2023-01-02.md)
 * [[6 Kyu] - Title Case](codewars/6kyu//2023-01/2023-01-03.md)
 * [[6 Kyu] - Simple Encryption #1 - Alternating Split](codewars/6kyu//2023-01/2023-01-04.md)
+* [[6 Kyu] - New Cashier Does Not Know About Space or Shift](codewars/6kyu//2023-01/2023-01-05.md)
