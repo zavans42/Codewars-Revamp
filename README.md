@@ -92,3 +92,4 @@ Every challenge has 2 solutions, the first one is a solution that I came up with
 * [[6 Kyu] - Simple Encryption #1 - Alternating Split](codewars/6kyu//2023-01/2023-01-04.md)
 * [[6 Kyu] - New Cashier Does Not Know About Space or Shift](codewars/6kyu//2023-01/2023-01-05.md)
 * [[6 Kyu] - What century is it?](codewars/6kyu//2023-01/2023-01-06.md)
+* [[6 Kyu] - Prize Draw](codewars/6kyu//2023-01/2023-01-07.md)
