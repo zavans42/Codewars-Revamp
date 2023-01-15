@@ -100,3 +100,4 @@ Every challenge has 2 solutions, the first one is a solution that I came up with
 * [[6 Kyu] - Arrays Similar](codewars/6kyu//2023-01/2023-01-12.md)
 * [[6 Kyu] - Hall Of Fame](codewars/6kyu//2023-01/2023-01-13.md)
 * [[6 Kyu] - English beggars](codewars/6kyu//2023-01/2023-01-14.md)
+* [[6 Kyu] - Remember](codewars/6kyu//2023-01/2023-01-15.md)
