@@ -105,3 +105,4 @@ Every challenge has 2 solutions, the first one is a solution that I came up with
 * [[6 Kyu] - Inside Out Strings](codewars/6kyu//2023-01/2023-01-17.md)
 * [[6 Kyu] - Vowels Back](codewars/6kyu//2023-01/2023-01-18.md)
 * [[6 Kyu] - Odd-heavy Array](codewars/6kyu//2023-01/2023-01-19.md)
+* [[6 Kyu] - Basics 03: Strings, Numbers and Calculation](codewars/6kyu//2023-01/2023-01-20.md)
