@@ -108,3 +108,4 @@ Every challenge has 2 solutions, the first one is a solution that I came up with
 * [[6 Kyu] - Basics 03: Strings, Numbers and Calculation](codewars/6kyu//2023-01/2023-01-20.md)
 * [[6 Kyu] - Organise duplicate numbers in list](codewars/6kyu//2023-01/2023-01-21.md)
 * [[6 Kyu] - Find the unique number](codewars/6kyu//2023-01/2023-01-22.md)
+* [[6 Kyu] - Smart Sum](codewars/6kyu//2023-01/2023-01-23.md)
