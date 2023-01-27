@@ -112,3 +112,4 @@ Every challenge has 2 solutions, the first one is a solution that I came up with
 * [[6 Kyu] - Sorted Arrays](codewars/6kyu//2023-01/2023-01-24.md)
 * [[6 Kyu] - Array.isArray](codewars/6kyu//2023-01/2023-01-25.md)
 * [[6 Kyu] - Santa's Master Plan](codewars/6kyu//2023-01/2023-01-26.md)
+* [[6 Kyu] - Holiday Shopping Priority Queue](codewars/6kyu//2023-01/2023-01-27.md)
