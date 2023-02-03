@@ -121,3 +121,4 @@ Every challenge has 2 solutions, the first one is a solution that I came up with
 #### February 2023
 * [[6 Kyu] - Selective Array Reversing](codewars/6kyu//2023-02/2023-02-01.md)
 * [[6 Kyu] - Rank Vector](codewars/6kyu//2023-02/2023-02-02.md)
+* [[6 Kyu] - IndexOf Array in Array](codewars/6kyu//2023-02/2023-02-03.md)
