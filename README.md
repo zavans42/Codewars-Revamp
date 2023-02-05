@@ -123,3 +123,4 @@ Every challenge has 2 solutions, the first one is a solution that I came up with
 * [[6 Kyu] - Rank Vector](codewars/6kyu//2023-02/2023-02-02.md)
 * [[6 Kyu] - IndexOf Array in Array](codewars/6kyu//2023-02/2023-02-03.md)
 * [[6 Kyu] - Simple array rotation](codewars/6kyu//2023-02/2023-02-04.md)
+* [[6 Kyu] - Clay Pigeon Shooting](codewars/6kyu//2023-02/2023-02-05.md)
