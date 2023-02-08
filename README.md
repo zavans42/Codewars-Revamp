@@ -16,7 +16,7 @@ I consistently refactor and optimize my code for both efficiency and readability
 
 ## My Approach
 
-Every challenge has 2 solutions, the first one is a solution that I came up with on my own, and the second one is a more refined and optimized solution after I learn from other solutions or read up further on the subject.
+I will try to come up with my own solution at first, but if after completion, it turns out there is better method or approach that I could use, then I will learn it and use it in my code.
 
 ## Lists of Challenges
 
@@ -126,3 +126,4 @@ Every challenge has 2 solutions, the first one is a solution that I came up with
 * [[6 Kyu] - Clay Pigeon Shooting](codewars/6kyu//2023-02/2023-02-05.md)
 * [[6 Kyu] - Almost Even](codewars/6kyu//2023-02/2023-02-06.md)
 * [[6 Kyu] - Same Array?](codewars/6kyu//2023-02/2023-02-07.md)
+* [[7 Kyu] - Convert an array of strings to array of numbers](codewars/7kyu//2023-02/2023-02-08.md)
