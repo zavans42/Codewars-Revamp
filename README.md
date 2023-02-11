@@ -129,3 +129,4 @@ I will try to come up with my own solution at first, but if after completion, it
 * [[7 Kyu] - Convert an array of strings to array of numbers](codewars/7kyu//2023-02/2023-02-08.md)
 * [[7 Kyu] - Smallest value of an array](codewars/7kyu//2023-02/2023-02-09.md)
 * [[7 Kyu] - Numbers in strings](codewars/7kyu//2023-02/2023-02-10.md)
+* [[7 Kyu] - Only One Gift Per Child](codewars/7kyu//2023-02/2023-02-11.md)
