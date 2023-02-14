@@ -132,3 +132,4 @@ I will try to come up with my own solution at first, but if after completion, it
 * [[7 Kyu] - Only One Gift Per Child](codewars/7kyu//2023-02/2023-02-11.md)
 * [[7 Kyu] - Even numbers in an array](codewars/7kyu//2023-02/2023-02-12.md)
 * [[7 Kyu] - Number Of Occurrences](codewars/7kyu//2023-02/2023-02-13.md)
+* [[7 Kyu] - Greet Me](codewars/7kyu//2023-02/2023-02-14.md)
